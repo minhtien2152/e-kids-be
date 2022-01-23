@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "61d80286ae437b017e6e43ab",
+    "name": "Động vật",
+    "img": "lion.png"
+  },
+  {
+    "_id": "61d80286ae437b017e6e43ad",
+    "name": "Phương tiện",
+    "img": "car.png"
+  },
+  {
+    "_id": "61d80286ae437b017e6e43ae",
+    "name": "Nhà bếp",
+    "img": "fork.png"
+  },
+  {
+    "_id": "61d80286ae437b017e6e43af",
+    "name": "Quần áo",
+    "img": "shirt.png"
+  },
+  {
+    "_id": "61d84b744826c8002f865d79",
+    "name": "Thức uống",
+    "img": "drinks.png"
+  },
+  {
+    "_id": "61d854484826c8002f865d7b",
+    "name": "Trái cây",
+    "img": "apple1.png"
+  },
+  {
+    "_id": "61d8545d4826c8002f865d7d",
+    "name": "Côn trùng",
+    "img": "insect.png"
+  }
+]

@@ -1,0 +1,5 @@
+node_modules/*
+database/
+*/uploads/*
+*.h5
+.env

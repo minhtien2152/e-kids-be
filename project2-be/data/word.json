@@ -1,0 +1,56 @@
+[
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Zebra",
+    "img": "zebra.png",
+    "meaning": "Con ngựa vằn"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Elephant",
+    "img": "elephant.png",
+    "meaning": "Con voi"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Giraffe",
+    "img": "giraffe.png",
+    "meaning": "Con hươu cao cổ"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Kangaroo",
+    "img": "kangaroo.png",
+    "meaning": "Con kangaroo"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Crocodile",
+    "img": "crocodile.png",
+    "meaning": "Con cá sấu"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Lion",
+    "img": "lion.png",
+    "meaning": "Con sư tử"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Rhino",
+    "img": "rhino.png",
+    "meaning": "Con tế giác"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Snake",
+    "img": "snake.png",
+    "meaning": "Con rắn"
+  },
+  {
+    "category": "61d80286ae437b017e6e43ab",
+    "name": "Tiger",
+    "img": "tiger.png",
+    "meaning": "Con hổ"
+  }
+]
